@@ -69,5 +69,10 @@ Content & Media Use – Useful as a base for sports journalists or content creat
 
 📷 Screenshot
 
+so how the dashboard looks like
+
+
+
+
 
 
