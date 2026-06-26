@@ -71,6 +71,8 @@ Content & Media Use – Useful as a base for sports journalists or content creat
 
 so how the dashboard looks like
 
+https://github.com/manikantareddynevali1/Cricket-dashboard/blob/main/Screenshot%202026-06-24%20131909.png
+
 
 
 
